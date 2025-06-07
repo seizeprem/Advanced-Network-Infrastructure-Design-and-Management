@@ -16,12 +16,19 @@ Candidates will be responsible for configuring network devices, monitoring traff
 1. **Technical Expertise**:
    
 o  Strong knowledge and experience in database management (procedures, queries, and optimization).
+
 o  Proficient in IP networks, including setup, isolation, and troubleshooting.
+
 o  Experience working with private LANs, including testing, SVIs (Switched Virtual Interfaces), and switch configuration.
+
 o  Ability to deploy and summarize network solutions for business environments.
+
 o  Advanced skills in router and VLAN configuration, including troubleshooting and verification.
+
 o  Solid understanding of iOS & IP networking (operating systems, services, and models).
+
 o  Proficiency in wireless network solutions, including survey techniques and design considerations.
+
 o  Familiarity with networking standards and protocols (industry best practices).
 
 2. **Programming and Technical Skills**:
