@@ -13,7 +13,7 @@ Project Description: This project focuses on the advanced design, setup, and man
 Candidates will be responsible for configuring network devices, monitoring traffic, and resolving technical issues. The role also involves implementing advanced network solutions, such as wireless network design and LAN optimization, while adhering to industry best practices and security standards. This project is ideal for professionals with experience in ICT network configuration and a passion for solving complex network issues.
 
 **Requirements**:
-1. _**Technical Expertise**_:
+**1.**__ _**Technical Expertise**_:
    
 -   Strong knowledge and experience in database management (procedures, queries, and optimization).
 
