@@ -31,6 +31,6 @@ Candidates will be responsible for configuring network devices, monitoring traff
 
 -   Familiarity with networking standards and protocols (industry best practices).
 
-2. **Programming and Technical Skills**:
+2. _**Programming and Technical Skills**_:
    
 -   Strong programming skills (knowledge of languages like Python, Java, or C++ for automation and troubleshooting).
