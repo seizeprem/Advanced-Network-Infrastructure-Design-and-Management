@@ -15,6 +15,7 @@ Project Title: **Advanced Network Infrastructure Design and Management**
 
 This project focuses on the advanced design, setup, and management of IT network infrastructures, specializing in IP networks, private LANs, wireless networks, and network security. The project will involve the configuration, deployment, and troubleshooting of network systems using industry-standard protocols and technologies. It offers opportunities to work on router and VLAN configuration, IP network setups, and private LAN optimizations, with a focus on improving network performance and security.
 
+
 Candidates will be responsible for configuring network devices, monitoring traffic, and resolving technical issues. The role also involves implementing advanced network solutions, such as wireless network design and LAN optimization, while adhering to industry best practices and security standards. This project is ideal for professionals with experience in ICT network configuration and a passion for solving complex network issues.
 
 **Requirements**:
